@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.22",
+    "qs": "^6.11.2"
+  },
+  "scripts": {
+    "start": "nodemon app.js"
+  }
+}
